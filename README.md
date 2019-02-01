@@ -5,28 +5,31 @@ This repository contains the over current relay models used in the following pap
 ## How to simulate it?
 Follow the steps below:
 
-- Download the relaymodel.mo package `./Model/` found in the repository
+- Download the relaymodel.mo package found [here]().
 - Load the package onto a Modelica Compliant software
-- Open the 
+- Open the package 
 
 
 ### Cross Verification
-Open the model This consists of 3 simulations, for each of the different relay types the 3 parameters must be set:
+Open the model This consists of 3 simulations, for each of the different relay types the 3 parameters must be set. The parameter window of the relay model should be filled like this:
+![paramters] (). 
   - For Standard Inverse Relay, set the following parameters:
-  -- 
+    -
   - For Very Inverse Relay
-  ---
+    -
   - For Extremely Inverse Relay
-  --
+    -
+ 
 
 ### Application Example
 Open the model This consists of 3 simulations, for each of the different relay types the 3 parameters must be set:
   - For Standard Inverse Relay, set the following parameters:
-  -- 
+    -
   - For Very Inverse Relay
-  ---
+    -
   - For Extremely Inverse Relay
-  --
+    -
+
   
 ## Additional Information
 
