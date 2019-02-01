@@ -11,21 +11,27 @@ Follow the steps below:
 
 
 ### Cross Verification
-Open the model This consists of 3 simulations:
-  - Standard Inverse Relay
-  - Very Inverse Relay
-  - Extremely Inverse Relay
-
+Open the model This consists of 3 simulations, for each of the different relay types the 3 parameters must be set:
+  - For Standard Inverse Relay, set the following parameters:
+  -- 
+  - For Very Inverse Relay
+  ---
+  - For Extremely Inverse Relay
+  --
 
 ### Application Example
-Open the model This consists of 3 simulations:
-  - Standard Inverse Relay
-  - Very Inverse Relay
-  - Extremely Inverse Relay
+Open the model This consists of 3 simulations, for each of the different relay types the 3 parameters must be set:
+  - For Standard Inverse Relay, set the following parameters:
+  -- 
+  - For Very Inverse Relay
+  ---
+  - For Extremely Inverse Relay
+  --
   
 ## Additional Information
 
 The following information may be also be useful:
-- The original final version for the paper is available in `./Paper/` in the portable document format (.pdf).
+- The original final version for the paper is available [here]().
+- For cross verification purposes, the model for which this model was cross verified, can be found [here](https://ieeexplore.ieee.org/abstract/document/6389585).
 
 
